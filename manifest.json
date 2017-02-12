@@ -1,7 +1,7 @@
 {
   "name": "No GitHub Dark Mode",
   "version": "0.0.1",
-  "manifest_version": 1,
+  "manifest_version": 2,
   "description": "Removes the dark navigation bar from Github.com, and resets it to the old style",
   "homepage_url": "http://github.com/nicholasadamou/NoGithubDarkMode",
   "icons": {
