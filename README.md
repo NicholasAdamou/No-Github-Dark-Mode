@@ -21,7 +21,9 @@ License
 -------
 
 NoGithubDarkMode is © 2017 Nicholas Adamou.
+
 It is free software,
+
 and may be redistributed under the terms specified in the [LICENSE] file.
 
 [LICENSE]: LICENSE
