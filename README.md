@@ -1,7 +1,7 @@
 No GitHub Dark Mode
 --------------------------------------------------------------------------------
 
-![Dark Github Image](https://github.com/adamisntdead/Files/blob/master/DarkMode.png?raw=true) | ![light Github Image](https://github.com/adamisntdead/Files/blob/master/LightMode.png?raw=true)
+![Dark Github Image](darkmode.png) | ![light Github Image](lightmode.png)
 --------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
 Before the extension                                                                          | After the extension
 
