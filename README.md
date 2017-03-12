@@ -4,6 +4,7 @@ No GitHub Dark Mode
 ![Dark Github Image](darkmode.png) | ![light Github Image](lightmode.png)
 --------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
 Before the extension                                                                          | After the extension
+[![Say Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/NicholasAdamou)
 
 -------
 
