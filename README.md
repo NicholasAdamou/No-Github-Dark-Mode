@@ -1,13 +1,9 @@
-No GitHub Dark Mode
+No GitHub Dark Mode ![license](https://img.shields.io/apm/l/vim-mode.svg)
 --------------------------------------------------------------------------------
 
 ![Dark Github Image](darkmode.png) | ![light Github Image](lightmode.png)
 --------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------
 Before the extension                                                                          | After the extension
-![license](https://img.shields.io/apm/l/vim-mode.svg)
-[![Say Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/NicholasAdamou)
-
--------
 
 Install:
 -------
