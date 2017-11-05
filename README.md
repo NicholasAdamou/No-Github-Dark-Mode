@@ -1,4 +1,4 @@
-No GitHub Dark Mode ![license](https://img.shields.io/apm/l/vim-mode.svg)
+No GitHub Dark Mode
 --------------------------------------------------------------------------------
 
 ![Dark Github Image](darkmode.png) | ![light Github Image](lightmode.png)
