@@ -18,7 +18,7 @@ Install:
 License
 -------
 
-No-Github-Dark-Mode is © 2017 Nicholas Adamou.
+No-Github-Dark-Mode is © Nicholas Adamou.
 
 It is free software, and may be redistributed under the terms specified in the [LICENSE] file.
 
